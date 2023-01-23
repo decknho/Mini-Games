@@ -8,12 +8,14 @@ while True:
           '[ 5 ] - Finalizar programa')
     minigame = int(input('Qual mini-game você deseja jogar? '))
     if minigame == 1:
-        ppt()
+      ppt()
     if minigame == 2:
-        par_imp()
+      par_imp()
     if minigame == 3:
-        adivinhe()
+      print('[ 1 ] - Usuario adivinha\n'
+            '[...] - Em breve')
+      adivinhe()
     if minigame == 4:
-        jogo_velha()
+      jogo_velha()
     if minigame == 5:
-        break
+      break
