@@ -1,5 +1,5 @@
 # Mini-Games
- Só treinando antes de avançar mais nos estudos em python, tudo que eu utilizei nesses jogos foi só o basico de python (com um pouquinho do avançado), que foi o que eu estudei até agora...
+ Só treinando antes de avançar mais nos estudos em python, tudo que eu utilizei nesses jogos foi só o basico de python ( com um pouquinho do avançado ), foi o que estudei até agora...
  
  ### Os o mini-games presente são:
  
